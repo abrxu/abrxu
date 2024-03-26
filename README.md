@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Gabriel Abreu!
 
 ![Abreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrxu&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrxu&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrxu&layout=donut&theme=dracula)](https://github.com/abrxu/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Abreu-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
