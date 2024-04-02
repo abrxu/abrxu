@@ -40,7 +40,3 @@
 </div>
 
 ##
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/0b/0a/fd/0b0afd74f826e55e41226e1f5385b36c.gif" witdh="398" height="320">
-</div>
