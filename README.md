@@ -3,12 +3,11 @@
 - 🔭 I’m currently working on College projects and my own Java projects!
 - 🌱 I’m currently learning Java and Spring :)
 - 😄 Pronouns: he/him
-&nbsp;
+
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=abrxu&show_icons=true&theme=dracula&layout=compact"/>
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=abrxu&theme=dracula&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=abrxu&show_icons=true&theme=dracula&layout=compact"/>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=abrxu&theme=dracula&mode=weekly" />
 </div>
-&nbsp;
 
 <h2 align="center">Competências em tecnologia:</h2>
 
