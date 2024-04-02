@@ -1,25 +1,46 @@
-### Oii! Eu sou o João Gabriel Abreu!
+<h1 align="center">System.out.print("Olá! Me chamo João Gabriel Abreu ☕");</h1>
 
-![Abreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrxu&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrxu&layout=donut&theme=dracula)](https://github.com/abrxu/github-readme-stats)
+- 🔭 I’m currently working on College projects and my own Java projects!
+- 🌱 I’m currently learning Java and Spring :)
+- 😄 Pronouns: he/him
+&nbsp;
+<div  align="center" style="margin-bottom:100px">
+<img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=abrxu&show_icons=true&theme=dracula&layout=compact"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=abrxu&theme=dracula&mode=weekly" />
+</div>
+&nbsp;
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Abreu-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="Abreu=Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Abreu=PostgreSQL" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Abreu=JS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Abreu=TS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Abreu=NodeJS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img align="right" alt="Kurapika-gif" height="160" width="275" src="https://pa1.aminoapps.com/7726/eddd6e653628531e0a290c7c9b413ef11891bf51r1-500-281_hq.gif"/>
+<h2 align="center">Competências em tecnologia:</h2>
+
+<h3 align="center">Linguagens e frameworks:</h3>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Abreu-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Abreu=Spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Abreu=JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Abreu=TS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="Abreu=NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ##
-<div> 
+
+<h3 align="center">Banco de dados:</h3>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Abreu=MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Abreu=PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="center" alt="Abreu=Oracle" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
+</div>
+
+##
+
+<h2 align="center">Onde me achar:</h2>
+
+<div align="center"> 
   <a href="https://instagram.com/abreuwyz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-gabreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
-- 🔭 I’m currently working on College projects and my own Java projects!
-- 🌱 I’m currently learning Java and Spring :)
-- 😄 Pronouns: he/him
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/0b/0a/fd/0b0afd74f826e55e41226e1f5385b36c.gif" witdh="398" height="320">
+</div>
