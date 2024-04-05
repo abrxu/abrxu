@@ -1,41 +1,36 @@
-<h1 align="center">System.out.print("Olá! Me chamo João Gabriel Abreu ☕");</h1>
+<img align="right" alt="" height="300px" src="./readmeImg.jpg">
 
-- 🔭 I’m currently working on College projects and my own Java projects!
-- 🌱 I’m currently learning Java and Spring :)
-- 😄 Pronouns: he/him
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=350&color=F70000&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Jo%C3%A3o+Gabriel+Abreu!;sou+Desenvolvedor+Back-end+Java)](https://git.io/typing-svg)
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=abrxu&show_icons=true&theme=dracula&layout=compact"/>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=abrxu&theme=dracula&mode=weekly" />
+<p align="left">📌 Estudante bolsista pelo PROUNI de Ciência da Computação pelo CESUCA (#2 melhor Centro Universitário do Brasil em 2024 pelo INEP/MEC). Em busca de oportunidade para construir e desenvolver a minha carreira profissional. Tenho habilidades em lógica, algoritmos, estrutura de dados e facilidade de aprendizado em tecnologias. Sou capaz de me adaptar facilmente a diferentes áreas de atuação e tenho habilidades de comunicação em equipe para alta eficiência em projetos.</p>
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:meabreudev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/joao-gabreu/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000&color:FFF)](https://www.instagram.com/abreuwyz/)
+
+<h3 align="left">My Stack</h3>
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="25" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="35" alt="postgresql logo"  />
+  <img width="8" />
 </div>
 
-<h2 align="center">Competências em tecnologia:</h2>
+<h3>GitHub Stats</h3>
 
-<h3 align="center">Linguagens e frameworks:</h3>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Abreu-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Abreu=Spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Abreu=JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Abreu=TS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Abreu=NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-</div>
-
-##
-
-<h3 align="center">Banco de dados:</h3>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Abreu=MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Abreu=PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align="center" alt="Abreu=Oracle" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
-</div>
-
-##
-
-<h2 align="center">Onde me achar:</h2>
-
-<div align="center"> 
-  <a href="https://instagram.com/abreuwyz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-gabreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abrxu&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FF0000&icon_color=FF0000&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abrxu&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF0000&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FF0000&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+<br>
