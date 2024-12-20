@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=350&color=F70000&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Jo%C3%A3o+Gabriel+Abreu!;sou+Desenvolvedor+Back-end+Java)](https://git.io/typing-svg)
 
-<p align="left">📌 Estudante de Ciência da Computação no CESUCA. Em busca de oportunidade para construir e desenvolver a minha carreira profissional. Tenho habilidades em lógica, algoritmos, estrutura de dados e facilidade de aprendizado em tecnologias. Sou capaz de me adaptar facilmente a diferentes áreas de atuação e tenho habilidades de comunicação em equipe para alta eficiência em projetos.</p>
+<p align="left">📌 Computer Science student, Java developer & A.I enthusiast</p>
 
 <h3 align="left">Connect with me!</h3>
 
