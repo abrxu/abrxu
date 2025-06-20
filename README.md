@@ -29,8 +29,10 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrxu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrxu&layout=donut&theme=transparent)
+<a href="https://github.com/abrxu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrxu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrxu&layout=compact&langs_count=10&theme=tokyonight"/>
+</a>
 <br>
 
 <picture>
